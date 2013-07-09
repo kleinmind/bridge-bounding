@@ -11,6 +11,6 @@ To get quickly started with the use of the algorithm, have a look at a very simp
 This project contains also implementations for three other well-known local community detection methods, namely:
 - Clauset, described in [Finding local community structure in networks](http://arxiv.org/abs/physics/0503036);
 - Luo, Wang and Promislow, described in [Exploring Local Community Structures in Large Networks](http://dl.acm.org/citation.cfm?id=1249100);
-- Bagrow, described in [Evaluating Local Community Methods in Networks]((http://iopscience.iop.org/1742-5468/2008/05/P05001)). 
+- Bagrow, described in [Evaluating Local Community Methods in Networks](http://iopscience.iop.org/1742-5468/2008/05/P05001). 
 
 For more information or support, contact: papadop@iti.gr or symeon.papadopoulos@gmail.com
