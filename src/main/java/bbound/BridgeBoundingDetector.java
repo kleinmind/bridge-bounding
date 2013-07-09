@@ -32,7 +32,6 @@ import jung.StringIndexableVertex;
  * Bridge Bounding technique.
  * @author Symeon Papadopoulos
  *
- * @param <O>
  */
 public class BridgeBoundingDetector<V extends StringIndexableVertex, E> implements LocalCommunityDetector<V,E> {
 
